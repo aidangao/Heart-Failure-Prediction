@@ -21,8 +21,8 @@ BMC Medical Informatics and Decision Making 20, 16 (2020).
 
 ## Libraries Used
 
-Pandas
-Numpy
-Sklearn
-Matplotlib
+Pandas <br/>
+Numpy <br/>
+Sklearn <br/>
+Matplotlib <br/>
 Seaborn
